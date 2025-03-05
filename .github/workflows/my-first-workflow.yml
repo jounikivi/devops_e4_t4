@@ -19,3 +19,4 @@ jobs:
       - name: List all files in the repository
         run: |
           echo "the repository contains the following files"
+          tree
